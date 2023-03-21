@@ -1,0 +1,2 @@
+CIDR-Bound tokens
+https://developer.hashicorp.com/vault/api-docs/auth/token#token_bound_cidrs

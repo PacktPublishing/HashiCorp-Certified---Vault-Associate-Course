@@ -1,0 +1,36 @@
+Sign up for my Newsletter
+https://www.krausen.io/
+
+Bryan's Twitter
+https://twitter.com/btkrausen
+
+Bryan's LinkedIn Profle
+https://www.linkedin.com/in/btkrausen/
+
+HashiCorp Security Automation Certification Landing Page
+https://www.hashicorp.com/certification/vault-associate
+
+Study Guide - Vault Associate Certification
+https://developer.hashicorp.com/vault/tutorials/associate-cert/associate-study
+
+Official Vault Documentation
+https://developer.hashicorp.com/vault/docs
+
+Officail Vault - API Documentation
+https://developer.hashicorp.com/vault/api-docs
+
+HashiCorp Certified - Vault Associate Practice Exam
+https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/?referralCode=B053909C293F10D9408D
+
+Ned Bellavance - Vault Certification Series
+https://www.youtube.com/channel/UCDQ9L4eFHxSh0BM6z-SkZMw
+
+HashiCorp Certified Vault Associate - Preparation Guide
+https://leanpub.com/vault-certified
+
+Running HashiCorp Vault in Production - Amazon
+https://www.amazon.com/Running-HashiCorp-Vault-Production-McTeer-ebook/dp/B08JJLGMZ3?dchild=1&keywords=hashicorp+vault&qid=1619045963&sr=8-1&linkCode=sl1&tag=vaultbook-20&linkId=1a56ba20a6e8dd79491869a62dbad1fe&language=en_US&ref_=as_li_ss_tl
+
+
+Running HashiCorp Vault in Production - Gumroad (Discounted)
+https://btkrausen.gumroad.com/l/vaultbook/j67unh3
