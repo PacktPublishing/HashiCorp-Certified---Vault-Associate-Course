@@ -1,3 +1,0 @@
-Root-Protected Paths
-https://developer.hashicorp.com/vault/tutorials/policies/policies#root-protected-api-endpoints
-
